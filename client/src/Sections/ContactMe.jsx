@@ -6,7 +6,8 @@ function ContactMe(props) {
       <div className="contact-title">Contact Me</div>
       <div className="contact-container">
         <div>Email: Kevlo96@gmail.com</div>
-        <a href="">LinkedIn</a>
+        <a href="https://github.com/LowKeyAkward">LinkedIn</a>
+        <a href="https://github.com/LowKeyAkward">GitHub</a>
       </div>
     </div>
   );
