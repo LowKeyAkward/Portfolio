@@ -10,7 +10,7 @@ function Projects(props) {
       <div className="project-div">
 
         <div className="project">
-          <a href="https://github.com/LowKeyAkward/GachaGaming">
+          <a href="https://github.com/LowKeyAkward/GachaGaming" target="_blank" rel="noreferrer">
             <img src={Gacha} alt="Gacha Gaming" />
           </a>
           <div>Gacha Gaming is an gaming app made to emulate gacha games.
@@ -21,7 +21,7 @@ function Projects(props) {
         </div>
 
         <div className="project">
-          <a href="https://github.com/KAthousand/block-app">
+          <a href="https://github.com/KAthousand/block-app" target="_blank" rel="noreferrer">
             <img src={Block} alt="The Block" />
           </a>
           <div>A web application built in collaboration with a
@@ -33,7 +33,7 @@ function Projects(props) {
         </div>
 
         <div className="project">
-          <a href="https://github.com/LowKeyAkward/Fashion-East">
+          <a href="https://github.com/LowKeyAkward/Fashion-East" target="_blank" rel="noreferrer">
             <img src={Fashion} alt="Fashion East" />
           </a>
           <div>Want to know what fashion trends are going on
