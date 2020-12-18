@@ -2,6 +2,7 @@ import React from 'react';
 import Gacha from "../Assets/Images/Gacha Gaming.png"
 import Block from "../Assets/Images/The Block.png"
 import Fashion from "../Assets/Images/Fashion-East.png"
+import "./Projects.css"
 
 function Projects(props) {
   return (

@@ -9,6 +9,7 @@ import Post from "../Assets/Icons/postgresql.svg"
 import Rails from "../Assets/Icons/rails.svg"
 import Reactic from "../Assets/Icons/React.svg"
 import Ruby from "../Assets/Icons/ruby.svg"
+import "./Skills.css"
 
 function Skills(props) {
   return (
