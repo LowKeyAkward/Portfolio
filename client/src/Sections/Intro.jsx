@@ -9,7 +9,7 @@ function Intro(props) {
         <div className="intro">Aspiring Software Developer</div>
         <div className="intro">Full-Stack Engineer</div>
       </div>
-      <div className="intro">Learn More</div>
+      <div className="intro-learn">Learn More</div>
     </div>
   );
 }
