@@ -16,6 +16,19 @@
   font-size: 300%;
 }
 
+.down{
+  border: solid blue;
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.down-arrow{
+  width: 50px;
+  height: auto;
+}
+
 .intro{
   border: solid purple;
 }

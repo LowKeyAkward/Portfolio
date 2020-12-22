@@ -14,7 +14,7 @@ function Intro(props) {
       
       <div className="down">
         <div className="intro-learn">Learn More</div>
-        <img className="down-arrown" src={Arrow} alt="down"/>
+        <img className="down-arrow" src={Arrow} alt="down"/>
       </div>
       
     </div>
