@@ -11,14 +11,21 @@
 
 .project{
   border: solid green;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
 }
 
 .project-div{
   border: solid red;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-height: 1000px;
 }
 
 .project-image{
    border: solid blue;
-   width: 35%;
+   width: 500px;
    height: auto;
 }
