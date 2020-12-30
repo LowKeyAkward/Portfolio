@@ -4,3 +4,21 @@
   width: 100vw;
   scroll-snap-align: start; */
 }
+
+.project-title{
+  font-size: 250%;
+}
+
+.project{
+  border: solid green;
+}
+
+.project-div{
+  border: solid red;
+}
+
+.project-image{
+   border: solid blue;
+   width: 35%;
+   height: auto;
+}

@@ -12,7 +12,7 @@ function Projects(props) {
 
         <div className="project">
           <a href="https://github.com/LowKeyAkward/GachaGaming" target="_blank" rel="noreferrer">
-            <img src={Gacha} alt="Gacha Gaming" />
+            <img className="project-image" src={Gacha} alt="Gacha Gaming" />
           </a>
           <div>Gacha Gaming is an gaming app made to emulate gacha games.
            The app randomly pulls heroes off a data table created on AirTable
@@ -23,7 +23,7 @@ function Projects(props) {
 
         <div className="project">
           <a href="https://github.com/KAthousand/block-app" target="_blank" rel="noreferrer">
-            <img src={Block} alt="The Block" />
+            <img className="project-image" src={Block} alt="The Block" />
           </a>
           <div>A web application built in collaboration with a
           team that provides users  a way to see gentrification,
@@ -35,7 +35,7 @@ function Projects(props) {
 
         <div className="project">
           <a href="https://github.com/LowKeyAkward/Fashion-East" target="_blank" rel="noreferrer">
-            <img src={Fashion} alt="Fashion East" />
+            <img className="project-image" src={Fashion} alt="Fashion East" />
           </a>
           <div>Want to know what fashion trends are going on
           with eastern cultures? Fashion-East lets users post

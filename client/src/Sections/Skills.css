@@ -13,4 +13,11 @@
 .skill-div{
   display: flex;
   justify-content: space-evenly;
+  margin-bottom: 50px;
+}
+
+.skill-title{
+  font-size: 250%;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
