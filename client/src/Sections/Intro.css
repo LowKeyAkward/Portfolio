@@ -29,7 +29,13 @@
   height: auto;
 }
 
-/* .intro{
-  border: solid purple;
-} */
+.intro{
+  /* border: solid purple; */
+  font-family: 'Lemonada', cursive;
+  font-size: 80%;
+}
+
+.intro-learn{
+  margin-bottom: 10px;
+}
 

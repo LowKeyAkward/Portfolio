@@ -6,6 +6,9 @@ function AboutMe(props) {
     <div className="about-container">
       <div className="about-title">About Me</div>
       <div className="about-div">
+        <div className="about-image">
+          place holder image
+        </div>
         <div className="about-content"> I am an up and coming
         developer looking to make his impact in the software
         developing world. As a Boston native, I am exposed to

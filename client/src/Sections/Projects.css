@@ -34,3 +34,8 @@
    width: 500px;
    height: auto;
 }
+
+.project-content{
+  font-family: 'Quattrocento', serif;
+  font-size: 110%;
+}

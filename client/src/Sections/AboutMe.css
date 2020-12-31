@@ -5,3 +5,29 @@
   width: 100vw;
   /* scroll-snap-align: start; */
 }
+
+.about-title{
+  font-size: 250%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.about-div{
+  display: flex;
+}
+
+.about-content{
+  right: 0;
+  display: flex;
+  width: 50vw;
+  font-family: 'Quattrocento', serif;
+  font-size: 150%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-weight: bold;
+}
+
+.about-image{
+  left: 0;
+  width: 50vw;
+}
