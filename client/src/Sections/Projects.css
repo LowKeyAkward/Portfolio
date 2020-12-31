@@ -1,5 +1,6 @@
 .project-container{
-  border: solid purple;
+  /* border: solid purple; */
+  border-top: solid black;
   /* height: 100vh;
   width: 100vw;
   scroll-snap-align: start; */
@@ -7,17 +8,21 @@
 
 .project-title{
   font-size: 250%;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .project{
-  border: solid green;
+  /* border: solid green; */
   display: flex;
   flex-direction: column;
   width: 40%;
+  margin-left: 50px;
+  margin-bottom: 20px;
 }
 
 .project-div{
-  border: solid red;
+  /* border: solid red; */
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -25,7 +30,7 @@
 }
 
 .project-image{
-   border: solid blue;
+   /* border: solid blue; */
    width: 500px;
    height: auto;
 }

@@ -1,5 +1,6 @@
 .skill-container{
-  border: solid red;
+  /* border: solid red; */
+  border-top: solid black;
   /* height: 100vh;
   width: 100vw; */
   /*scroll-snap-align: start; */
